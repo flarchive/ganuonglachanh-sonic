@@ -2,13 +2,18 @@
 
 > **Read-only archive of released versions of ganuonglachanh/sonic.** Not for installation: use [Packagist](https://packagist.org/packages/ganuonglachanh/sonic) or the [upstream repository](https://github.com/ganuonglachanh/flarum-sonic).
 
-**0** versions archived · Latest: [`0.1.9`](https://github.com/flarchive/ganuonglachanh-sonic/tree/archive/v0.1.9) · License: `AGPL-3.0` · Flarum: `>=1.0`
+**6** versions archived · Latest: [`0.1.9`](https://github.com/flarchive/ganuonglachanh-sonic/tree/archive/v0.1.9) · License: `AGPL-3.0` · Flarum: `>=1.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.2` | 2021-08-31 | `>=1.0` | [Browse](https://github.com/flarchive/ganuonglachanh-sonic/tree/archive/v0.1.2) |
+| `0.1.3` | 2021-09-02 | `>=1.0` | [Browse](https://github.com/flarchive/ganuonglachanh-sonic/tree/archive/v0.1.3) |
+| `0.1.4` | 2021-09-02 | `>=1.0` | [Browse](https://github.com/flarchive/ganuonglachanh-sonic/tree/archive/v0.1.4) |
+| `0.1.5` | 2021-09-02 | `>=1.0` | [Browse](https://github.com/flarchive/ganuonglachanh-sonic/tree/archive/v0.1.5) |
+| `0.1.8` | 2023-02-11 | `>=1.0` | [Browse](https://github.com/flarchive/ganuonglachanh-sonic/tree/archive/v0.1.8) |
+| `0.1.9` | 2024-02-04 | `>=1.0` | [Browse](https://github.com/flarchive/ganuonglachanh-sonic/tree/archive/v0.1.9) |
 
 Catalog entry: [packages/ganuonglachanh-sonic.json](https://github.com/flarchive/archive-index/blob/main/packages/ganuonglachanh-sonic.json)
 
